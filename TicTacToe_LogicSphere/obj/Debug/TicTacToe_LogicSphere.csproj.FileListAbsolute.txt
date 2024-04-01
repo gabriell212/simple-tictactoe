@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\bin\Debug\TicTacToe_LogicSphere.exe.config
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\bin\Debug\TicTacToe_LogicSphere.exe
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\bin\Debug\TicTacToe_LogicSphere.pdb
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\obj\Debug\TicTacToe_LogicSphere.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\obj\Debug\TicTacToe_LogicSphere.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\obj\Debug\TicTacToe_LogicSphere.frmMainMenu.resources
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\obj\Debug\TicTacToe_LogicSphere.frmPlayerPlayer.resources
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\obj\Debug\TicTacToe_LogicSphere.Properties.Resources.resources
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\obj\Debug\TicTacToe_LogicSphere.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\obj\Debug\TicTacToe_LogicSphere.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\obj\Debug\TicTacToe_LogicSphere.exe
+C:\Users\User\source\repos\TicTacToe_LogicSphere\TicTacToe_LogicSphere\obj\Debug\TicTacToe_LogicSphere.pdb
